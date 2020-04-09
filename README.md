@@ -20,7 +20,7 @@ This project consists in algorithm that finds the most efficient path from one p
 
 ### Project 8: Traffic Light Classifier
 
-As the name says, this project implemented on a Jupyter Notebook classifies different images of traffic lights. To classify the images, cv2 is used applying different images filters to make a correct classification. The implemention achieve a 99.6% of efficiency on the Test set.
+As the name says, this project implemented on a Jupyter Notebook classifies different images of traffic lights. To classify the images, cv2 is used applying different images filters to make a correct classification. The implemention achieve an accuracy of 99.6% in the Test set.
 
 *Note: All images come from this [MIT self-driving car course](https://selfdrivingcars.mit.edu/) and are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).*
 
